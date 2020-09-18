@@ -2850,20 +2850,10 @@
 
 	#one:before {
 		background-image: url("../../images/blank.jpg");
-		background-size: cover;
+		background-size: auto 100%;
 		content: '';
 		display: block;
-		height: 150px;
-		width: 1920px;
 	}
-/*	{
-		background-image: url("../../images/banner.jpg");
-		background-size: cover;
-		content: '';
-		display: block;
-		height: 600px;
-		width: 1920px;
-	}*/
 
 /* Footer */
 
